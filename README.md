@@ -1,8 +1,6 @@
 # Art Gallery Web Application  
 
 **EECS 447 Final Project**  
-Henry Marshall, Kristin Boeckmann, Mario Sumanasekara  
-(Group 7)  
 
 ## Project Overview  
 The Art Gallery web application is a platform designed to facilitate the buying and selling of artwork. Users can create an account, browse available artworks, and manage their buying and selling activities seamlessly.  
